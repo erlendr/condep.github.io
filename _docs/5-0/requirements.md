@@ -1,9 +1,9 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: System Requirements
 prev_section: new
 next_section: terms
-permalink: /docs/4-0/requirements/
+permalink: /docs/5-0/requirements/
 ---
 
 ConDep will validate client and server PowerShell versions, and that it can remotely

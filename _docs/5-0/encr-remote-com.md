@@ -1,9 +1,9 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: Remote Communication
 prev_section: requirements
 next_section: quick-start
-permalink: /docs/4-0/encr-remote-com/
+permalink: /docs/5-0/encr-remote-com/
 ---
 
 ## PowerShell Remoting

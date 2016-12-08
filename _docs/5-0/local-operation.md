@@ -1,7 +1,7 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: Implementing a Local Operation
-permalink: /docs/4-0/local-operation/
+permalink: /docs/5-0/local-operation/
 ---
 
 Here we show how you would implement a **Local Operation** in ConDep. For

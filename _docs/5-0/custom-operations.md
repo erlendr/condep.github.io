@@ -1,7 +1,7 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: About Custom Operations
-permalink: /docs/4-0/custom-operations/
+permalink: /docs/5-0/custom-operations/
 ---
 
 The ConDep DSL have solved the difficult problems with orchestration, deployment,

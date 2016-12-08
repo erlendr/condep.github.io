@@ -1,8 +1,8 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: What is ConDep?
 next_section: quick-start
-permalink: /docs/4-0/what-is-condep/
+permalink: /docs/5-0/what-is-condep/
 ---
 
 ConDep is a open source infrastructure configuration and deployment DSL
@@ -32,10 +32,10 @@ When you execute ConDep, you specify which Runbook to execute and to which Envir
 ConDep has some really nice intelligence built-in especially around deployment. ConDep knows, for instance, what a Load Balancer is, and how to operate it to enable **no-downtime deployments**.
 
 ### Push based
-ConDep very similar to Ansible in that it is "push" based, meaning it will push infrastructure configuration and deployments to remote servers from a central place (like a CI server). This is something you need to be aware of when evaluating ConDep for your organization. Depending on your requirements (your network and firewalls), a push-based model might be exactly what you need, but some need/prefer a pull-based model instead. Tools like [Chef](https://www.chef.iopu) or [Puppet](http://puppetlabs.com) might help you if that's your scenario. For more information about ConDep's push-based model, check out [What does "push-based" mean?](/docs/4-0/push-based/).
+ConDep very similar to Ansible in that it is "push" based, meaning it will push infrastructure configuration and deployments to remote servers from a central place (like a CI server). This is something you need to be aware of when evaluating ConDep for your organization. Depending on your requirements (your network and firewalls), a push-based model might be exactly what you need, but some need/prefer a pull-based model instead. Tools like [Chef](https://www.chef.iopu) or [Puppet](http://puppetlabs.com) might help you if that's your scenario. For more information about ConDep's push-based model, check out [What does "push-based" mean?](/docs/5-0/push-based/).
 
 ### Idempotent
-All [Operations](/docs/4-0/condep-dsl-operations/) in ConDep are **idempotent**, meaning you can run them as many times as you want and expect the same result. In practice this means if configure a IIS Web Site with certain settings, and somebody later manually alters those settings on the server, the next time ConDep is executed the settings will be reverted back.
+All [Operations](/docs/5-0/condep-dsl-operations/) in ConDep are **idempotent**, meaning you can run them as many times as you want and expect the same result. In practice this means if configure a IIS Web Site with certain settings, and somebody later manually alters those settings on the server, the next time ConDep is executed the settings will be reverted back.
 
 This is also true for deployed files and directories. ConDep does not just copy them, it **synchronizes** them. So if you have deployed a folder, and someone later adds a file, ConDep will remove it on next execution.
 

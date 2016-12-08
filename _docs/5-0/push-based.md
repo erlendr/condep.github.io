@@ -1,9 +1,9 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: Push based
 prev_section: architecture
 next_section: environment
-permalink: /docs/4-0/push-based/
+permalink: /docs/5-0/push-based/
 ---
 
 ConDep is what we refer to as a **Push Based** system, meaning it will push deployment

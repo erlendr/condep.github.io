@@ -1,7 +1,7 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: Implementing a Remote Composite Operation
-permalink: /docs/4-0/remote-composite-operation/
+permalink: /docs/5-0/remote-composite-operation/
 ---
 
 Here we show how you would implement a **Remote Composite Operation**

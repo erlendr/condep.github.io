@@ -1,9 +1,9 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: Getting Started
 prev_section: what-is-condep
 next_section: new
-permalink: /docs/4-0/quick-start/
+permalink: /docs/5-0/quick-start/
 ---
 
 There are four simple steps to follow in order to define your configuration, deployment

@@ -1,7 +1,7 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: Implementing a For Each Server Operation
-permalink: /docs/4-0/for-each-server-operation/
+permalink: /docs/5-0/for-each-server-operation/
 ---
 
 Here we show how you would implement a **For Each Server Operation** in

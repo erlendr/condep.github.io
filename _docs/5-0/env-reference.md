@@ -1,7 +1,7 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: Environment Reference
-permalink: /docs/4-0/env-reference/
+permalink: /docs/5-0/env-reference/
 ---
 
 <table>

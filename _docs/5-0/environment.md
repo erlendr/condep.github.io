@@ -1,9 +1,9 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: Environments
 prev_section: push-based
 next_section: artifacts
-permalink: /docs/4-0/environment/
+permalink: /docs/5-0/environment/
 ---
 
 Environment files in ConDep is where you put your environment specific configurations.

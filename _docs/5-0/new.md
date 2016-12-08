@@ -1,9 +1,9 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: What's New in Version 4.0?
 prev_section: quick-start
 next_section: requirements
-permalink: /docs/4-0/new/
+permalink: /docs/5-0/new/
 ---
 
 In version 4.0 we made some major improvements to how the core execution engine of ConDep works. We've already seen this make ConDep more intuitive to use, but the drawback is some breaking changes (more details below).

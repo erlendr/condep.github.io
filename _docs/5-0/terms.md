@@ -1,9 +1,9 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: DevOps Terminology
 prev_section: requirements
 next_section: best-practices
-permalink: /docs/4-0/terms/
+permalink: /docs/5-0/terms/
 ---
 
 [<img src="http://ecx.images-amazon.com/images/I/71sYKaNItcL.jpg" class="img-align-right" style="width: 120px;">](http://www.amazon.com/dp/0321601912?tag=contindelive-20)

@@ -1,9 +1,9 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: Environment Encryption
 prev_section: requirements
 next_section: quick-start
-permalink: /docs/4-0/env-encryption/
+permalink: /docs/5-0/env-encryption/
 ---
 
 Environment configuration files typically contains user names and passwords and other

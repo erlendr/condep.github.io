@@ -1,9 +1,9 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: Architecture
 prev_section: best-practices
 next_section: push-based
-permalink: /docs/4-0/architecture/
+permalink: /docs/5-0/architecture/
 ---
 
 <img src="/images/architecture.png">

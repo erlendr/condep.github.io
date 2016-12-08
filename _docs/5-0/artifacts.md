@@ -1,9 +1,9 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: Artifacts
 prev_section: environment
 next_section: condep-exe
-permalink: /docs/4-0/artifacts/
+permalink: /docs/5-0/artifacts/
 ---
 
 Artifacts is what instrument the Operations in the ConDep DSL to automate your

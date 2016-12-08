@@ -1,9 +1,9 @@
 ---
-layout: doc-4-0
+layout: doc-5-0
 title: Security
 prev_section: requirements
 next_section: quick-start
-permalink: /docs/4-0/security/
+permalink: /docs/5-0/security/
 ---
 
 Security in ConDep relates to two main topics:
