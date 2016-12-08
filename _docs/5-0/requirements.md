@@ -12,7 +12,7 @@ communicate with the configured servers before doing any actual work on them. It
 requirements below. Some [Operations](../condep-dsl-operations/) might work on OS
 versions lower than the recommended, but not all.
 
-Windows Server 2012 and Windows 8 are enabled for Windows PowerShell Remoting by default.
+Windows Server 2012/2016 and Windows 8/10 are enabled for Windows PowerShell Remoting by default.
 If the settings are changed, you can restore the default settings by by running the
 `Enable-PSRemoting` cmdlet.
 
@@ -34,7 +34,7 @@ to enable Windows PowerShell Remoting.
 			<td>PowerShell Version</td><td>&gt;= 3.0</td><td>&gt;= 3.0</td>
 		</tr>
 		<tr>
-			<td>.NET Framework</td><td>&gt;= 4.0</td><td>&gt;= 4.0</td>
+			<td>.NET Framework</td><td>&gt;= 4.5</td><td>&gt;= 4.5</td>
 		</tr>
 	</tbody>
 </table>
