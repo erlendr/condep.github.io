@@ -43,7 +43,7 @@ Here´s a environment file (`prod.env.json`) example:
 {% endhighlight %}
 
 `condep.exe` takes several mandatory parameters, one which is the environment name. Note
-that you only use the name, excluding .env.json.
+that you only use the name, excluding .env.json. See [condep.exe](../condep-exe/).
 
 ## Tiers
 
